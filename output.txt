@@ -1,0 +1,400 @@
+___________________GRAND WELCOME IN OUR VIRTUAL HOTEL___________________
+
+                        1.Registration
+                        2.Reservation
+                        3.Show
+                        4.Rooms Available
+                        5.Exit
+                        Enter your choice:-> 1
+Enter Room no: 1
+
+Enter Host's name: ABC
+
+Start time: 2am
+
+Session Ends at: 2am
+
+From:           1AUG
+
+To:             2AUG
+
+
+                        1.Registration       
+                        2.Reservation        
+                        3.Show
+                        4.Rooms Available    
+                        5.Exit
+                        Enter your choice:-> 2
+Room no: 1
+
+Chair Number: 3
+Enter traveller's name: developer
+
+
+                        1.Registration
+                        2.Reservation 
+                        3.Show        
+                        4.Rooms Available
+                        5.Exit
+                        Enter your choice:-> 3
+
+Enter Room no: 1
+
+********************************************************************************
+Room no: 1
+Host : ABC              Start time: 2am         End time: 2am
+From : 1AUG             To : 2AUG
+
+********************************************************************************
+    1.     Empty    2.     Empty    3. developer    4.     Empty
+    5.     Empty    6.     Empty    7.     Empty    8.     Empty
+    9.     Empty   10.     Empty   11.     Empty   12.     Empty
+   13.     Empty   14.     Empty   15.     Empty   16.     Empty
+   17.     Empty   18.     Empty   19.     Empty   20.     Empty
+   21.     Empty   22.     Empty   23.     Empty   24.     Empty
+   25.     Empty   26.     Empty   27.     Empty   28.     Empty
+   29.     Empty   30.     Empty   31.     Empty   32.     Empty
+
+There are 31 Chairs empty in Room No: 1
+The Chair no 3 is reserved for developer.
+
+                        1.Registration
+                        2.Reservation
+                        3.Show
+                        4.Rooms Available
+                        5.Exit
+                        Enter your choice:-> 4
+
+
+1.
+________________________________________________________________________________
+
+Room no: 1
+Host : ABC              Start time: 2am         End time: 2am
+From : 1AUG             To : 2AUG
+________________________________________________________________________________
+
+
+
+2.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+3.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+4.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+5.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+6.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+7.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+8.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+9.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+10.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+11.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+12.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+13.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+14.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+15.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+16.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+17.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+18.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+19.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+20.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+21.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+22.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+23.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+24.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+25.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+26.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+27.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+28.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+29.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+30.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+31.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+32.
+________________________________________________________________________________
+
+Room no: Empty
+Host : Empty            Start time: Empty               End time: Empty
+From : Empty            To : Empty
+________________________________________________________________________________
+
+
+
+                        1.Registration
+                        2.Reservation
+                        3.Show
+                        4.Rooms Available
+                        5.Exit
+                        Enter your choice:-> 5
+ 
+
+ we hope,
+ all enjoyed our service and wish you all the best for your next journey.
+Thank you
+
