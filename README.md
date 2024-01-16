@@ -23,8 +23,8 @@ The project contains an [output.txt](output.txt) file, which contains sample out
 
 This project has been completed as part of a C++ and DS internship, and a certificate is available to verify the successful completion of the program.
 
-[Certificate of Training](training_certificate.pdf) <br/>
-[Certificate of Project](project_certificate.pdf)
+[Certificate of Training](Training_certificate.pdf) <br/>
+[Certificate of Project](Project_certificate.pdf)
 
 ## Getting Started
 
