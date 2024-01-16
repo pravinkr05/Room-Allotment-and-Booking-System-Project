@@ -5,18 +5,26 @@
 This project is a prototype model developed in C++ to demonstrate the virtual booking of rooms in a hotel. It serves as a practical implementation of concepts learned during the C++ and Data Structures internship at Internship Studio. The primary data structure used in this project is the array and queue.
 
 ## Features
-Add all functions
 
 - **Room Booking**: Allows users to virtually book rooms in a hotel.
-- **Array Queue Data Structure**: Implements the array queue data structure for efficient room management.
+- **Registration**: Allows users to register as a client user.
+- **Reservation**: Enables users to reserve a room with a host.
+- **Show Reserved Rooms**: Displays the host and room details reserved by the user.
+- **Rooms Availability**: Shows the current availability status of rooms.
+- **Exit**: Exits from the loop of these functions.
 - **User-friendly Interface**: The project provides a simple and intuitive interface for users to interact with the booking system.
+- **Array and Queue Data Structure**: Implements the array and queue data structure for efficient room management.
+
+## Output File
+
+The project contains an [output.txt](output.txt) file, which contains sample output data from the code.
 
 ## Certificate
 
 This project has been completed as part of a C++ and DS internship, and a certificate is available to verify the successful completion of the program.
 
-[Certificate of Completion](certificate/certificate.pdf)
-Certtificate-2
+[Certificate of Training](training_certificate.pdf)
+[Certificate of Project](project_certificate.pdf)
 
 ## Getting Started
 
@@ -30,7 +38,7 @@ To run the project, follow these steps:
 ## Usage
 
 1. Upon running the program, follow the on-screen instructions to navigate and interact with the room booking system.
-2. Enter the required details to book a room virtually.
+2. Enter the required details to use the functions like Registration, Reservation, Show Reserved Rooms, Rooms Availability, and Exit.
 
 ## Contributors
 
