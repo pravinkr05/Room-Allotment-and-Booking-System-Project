@@ -17,7 +17,7 @@ This project is a prototype model developed in C++ to demonstrate the virtual bo
 
 ## Output File
 
-The project contains an [output.txt]<span style="text-decoration:none;">(output.txt)</span> file, which contains sample output data from the code.
+The project contains an [output.txt](output.txt) file, which contains sample output data from the code.
 
 ## Certificate
 
