@@ -17,7 +17,7 @@ This project is a prototype model developed in C++ to demonstrate the virtual bo
 
 ## Output File
 
-The project contains an [output.txt](output.txt) file, which contains sample output data from the code.
+The project contains an [output.txt](output.txt)<span style="text-decoration:none;">(link)</span> file, which contains sample output data from the code.
 
 ## Certificate
 
@@ -46,7 +46,7 @@ Pravin Raj
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+This project is licensed under the [MIT License](https://opensource.org/license/mit/) - see the [LICENSE.md](LICENSE.md) file for details.
 
 ## Note on Contributions
 
